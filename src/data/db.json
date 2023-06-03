@@ -1,0 +1,120 @@
+{
+    "administrators": [
+        {
+            "id": 1,
+            "name": "Alexis Tamayo",
+            "rol": "Administrador",
+            "userName": "Alexis",
+            "paswoord": "kirito",
+            "perfil": "https://i.pinimg.com/736x/b2/eb/41/b2eb41cb10fdcd43157904c12511174f.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Andres Parra",
+            "rol": "Administrador",
+            "userName": "Andres",
+            "paswoord": "12345",
+            "perfil": "https://i.pinimg.com/736x/46/e8/62/46e862b1894bc33053e17a9f437b1e76.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Diego Samudio",
+            "rol": "Administrador",
+            "userName": "Diego",
+            "paswoord": "roronoaZoro",
+            "perfil": "https://i.pinimg.com/1200x/0d/a5/f7/0da5f7e5377fcf854ac6b4452e85aac9.jpg"
+          }
+    ],
+    "pizzas": [
+        {
+            "id": 1,
+            "img": "https://napolicartagena.com/wp-content/uploads/2022/01/La-Pizza-Hawaiana-de-Canada.jpg",
+            "name": "Pizza Hawaiana",
+            "description": "La pizza hawaiana, originaria de Canadá, es una pizza que tradicionalmente contiene una base de queso fundido y tomate que se aliña con jamón y piña",
+            "price": "60.000",
+            "previews": "545",
+            "recomendation": [
+                {
+                    "id": 1,
+                    "imgU": "https://i.pinimg.com/originals/39/72/f8/3972f81d4123278662c34eb40a25f0fd.jpg",
+                    "nameU": "Diego Andres",
+                    "recomendationU": "De las mejores pizzas que he probado, recomendada"
+                },
+                {
+                    "id": 2,
+                    "imgU": "https://i.pinimg.com/originals/43/08/25/4308258e169a147bd45f96965cfd277c.jpg",
+                    "nameU": "Alexis Tamayo",
+                    "recomendationU": "Concuerdo con el desconocido"
+                }
+            ]
+          },
+          {
+            "id": 2,
+            "img": "https://recetinas.com/wp-content/uploads/2022/07/pizza-mexicana.jpg",
+            "name": "Pizza Mexicana",
+            "description": "La pizza mexicana es un tipo de pizza elaborada con los ingredientes habituales de la cocina mexicana.",
+            "price": "51.000",
+            "previews": "445",
+            "recomendation": [
+                {
+                    "id": 1,
+                    "imgU": "https://i.pinimg.com/originals/41/76/44/417644ace33accc7459475ec8eb7b19d.jpg",
+                    "nameU": "Andres Parra",
+                    "recomendationU": "De las mejores pizzas que he probado, recomendada"
+                },
+                {
+                    "id": 2,
+                    "imgU": "https://i.pinimg.com/originals/39/72/f8/3972f81d4123278662c34eb40a25f0fd.jpg",
+                    "nameU": "Diego Andres",
+                    "recomendationU": "Concuerdo con el desconocido"
+                }
+            ]
+          },
+          {
+            "id": 3,
+            "img": "https://www.annarecetasfaciles.com/files/pizza-margarita-1-scaled.jpg",
+            "name": "Pizza Margarita",
+            "description": "La pizza margarita es una típica pizza napolitana elaborada con tomate, mozzarella, albahaca fresca, sal y aceite. Se trata de la pizza napolitana más popular, junto con la marinera.",
+            "price": "51.000",
+            "previews": "445",
+            "recomendation": [
+                {
+                    "id": 1,
+                    "imgU": "https://i.pinimg.com/originals/43/08/25/4308258e169a147bd45f96965cfd277c.jpg",
+                    "nameU": "Alexis Tamayo",
+                    "recomendationU": "De las mejores pizzas que he probado, recomendada"
+                },
+                {
+                    "id": 2,
+                    "imgU": "https://i.pinimg.com/originals/41/76/44/417644ace33accc7459475ec8eb7b19d.jpg",
+                    "nameU": "Andres Parra",
+                    "recomendationU": "Concuerdo con el desconocido"
+                }
+            ]
+          },
+          {
+            "id": 4,
+            "img": "https://cdn0.recetasgratis.net/es/posts/5/2/6/pizza_napolitana_32625_orig.jpg",
+            "name": "Pizza Napolitana",
+            "description": "La pizza napolitana, de masa tierna y delgada pero bordes altos, es la versión propia de la cocina napolitana de la pizza redonda. El término pizza napoletana, por su importancia histórica o regional, se emplea en algunas zonas como sinónimo de pizza tonda.",
+            "price": "51.000",
+            "previews": "445",
+            "recomendation": [
+                {
+                    "id": 1,
+                    "imgU": "https://i.pinimg.com/originals/41/76/44/417644ace33accc7459475ec8eb7b19d.jpg",
+                    "nameU": "Andres Parra",
+                    "recomendationU": "De las mejores pizzas que he probado, recomendada"
+                },
+                {
+                    "id": 2,
+                    "imgU": "https://i.pinimg.com/originals/39/72/f8/3972f81d4123278662c34eb40a25f0fd.jpg",
+                    "nameU": "Diego Andres",
+                    "recomendationU": "Concuerdo con el desconocido"
+                }
+            ]
+          }    
+    ],
+    "compra": [],
+    "shoppingCart": []
+  }
