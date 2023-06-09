@@ -115,6 +115,26 @@
             ]
           }    
     ],
+    "cupons": [
+        {
+            "id": 1,
+            "name": "Primera Compra",
+            "discount": "45 %",
+            "value": "0.45"
+          },
+          {
+            "id": 2,
+            "name": "Pizzas por Montones",
+            "discount": "30 %",
+            "value": "0.3"
+          },
+          {
+            "id": 3,
+            "name": "CumpleaPizza",
+            "discount": "10 %",
+            "value": "0.1"
+          }
+    ],
     "compra": [],
-    "shoppingCart": []
-  }
+    "shoppingcart": []
+}
