@@ -28,10 +28,10 @@
   "pizzas": [
     {
       "id": 1,
-      "quantity": 0,
+      "quantity": 1,
       "img": "https://napolicartagena.com/wp-content/uploads/2022/01/La-Pizza-Hawaiana-de-Canada.jpg",
       "name": "Pizza Hawaiana",
-      "description": "La pizza hawaiana, originaria de Canadá, es una pizza que tradicionalmente contiene una base de queso fundido y tomate que se aliña con jamón y piña",
+      "description": "La pizza hawaiana, originaria de Canadá, es una pizza que tradicionalmente contiene una base de queso fundido y tomate que se aliña con jamón y piña.",
       "price": "60.000",
       "previews": "545",
       "recomendation": [
@@ -39,19 +39,19 @@
           "id": 1,
           "imgU": "https://i.pinimg.com/originals/39/72/f8/3972f81d4123278662c34eb40a25f0fd.jpg",
           "nameU": "Diego Andres",
-          "recomendationU": "De las mejores pizzas que he probado, recomendada"
+          "recomendationU": "De las mejores pizzas que he probado, recomendada."
         },
         {
           "id": 2,
           "imgU": "https://i.pinimg.com/originals/43/08/25/4308258e169a147bd45f96965cfd277c.jpg",
           "nameU": "Alexis Tamayo",
-          "recomendationU": "Concuerdo con el desconocido"
+          "recomendationU": "Concuerdo con el desconocido."
         }
       ]
     },
     {
       "id": 2,
-      "quantity": 0,
+      "quantity": 1,
       "img": "https://recetinas.com/wp-content/uploads/2022/07/pizza-mexicana.jpg",
       "name": "Pizza Mexicana",
       "description": "La pizza mexicana es un tipo de pizza elaborada con los ingredientes habituales de la cocina mexicana.",
@@ -62,19 +62,19 @@
           "id": 1,
           "imgU": "https://i.pinimg.com/originals/41/76/44/417644ace33accc7459475ec8eb7b19d.jpg",
           "nameU": "Andres Parra",
-          "recomendationU": "De las mejores pizzas que he probado, recomendada"
+          "recomendationU": "De las mejores pizzas que he probado, recomendada."
         },
         {
           "id": 2,
           "imgU": "https://i.pinimg.com/originals/39/72/f8/3972f81d4123278662c34eb40a25f0fd.jpg",
           "nameU": "Diego Andres",
-          "recomendationU": "Concuerdo con el desconocido"
+          "recomendationU": "Concuerdo con el desconocido."
         }
       ]
     },
     {
       "id": 3,
-      "quantity": 0,
+      "quantity": 1,
       "img": "https://www.annarecetasfaciles.com/files/pizza-margarita-1-scaled.jpg",
       "name": "Pizza Margarita",
       "description": "La pizza margarita es una típica pizza napolitana elaborada con tomate, mozzarella, albahaca fresca, sal y aceite. Se trata de la pizza napolitana más popular, junto con la marinera.",
@@ -85,19 +85,19 @@
           "id": 1,
           "imgU": "https://i.pinimg.com/originals/43/08/25/4308258e169a147bd45f96965cfd277c.jpg",
           "nameU": "Alexis Tamayo",
-          "recomendationU": "De las mejores pizzas que he probado, recomendada"
+          "recomendationU": "De las mejores pizzas que he probado, recomendada."
         },
         {
           "id": 2,
           "imgU": "https://i.pinimg.com/originals/41/76/44/417644ace33accc7459475ec8eb7b19d.jpg",
           "nameU": "Andres Parra",
-          "recomendationU": "Concuerdo con el desconocido"
+          "recomendationU": "Concuerdo con el desconocido."
         }
       ]
     },
     {
       "id": 4,
-      "quantity": 0,
+      "quantity": 1,
       "img": "https://cdn0.recetasgratis.net/es/posts/5/2/6/pizza_napolitana_32625_orig.jpg",
       "name": "Pizza Napolitana",
       "description": "La pizza napolitana, de masa tierna y delgada pero bordes altos, es la versión propia de la cocina napolitana de la pizza redonda. El término pizza napoletana, por su importancia histórica o regional, se emplea en algunas zonas como sinónimo de pizza tonda.",
@@ -108,13 +108,13 @@
           "id": 1,
           "imgU": "https://i.pinimg.com/originals/41/76/44/417644ace33accc7459475ec8eb7b19d.jpg",
           "nameU": "Andres Parra",
-          "recomendationU": "De las mejores pizzas que he probado, recomendada"
+          "recomendationU": "De las mejores pizzas que he probado, recomendada."
         },
         {
           "id": 2,
           "imgU": "https://i.pinimg.com/originals/39/72/f8/3972f81d4123278662c34eb40a25f0fd.jpg",
           "nameU": "Diego Andres",
-          "recomendationU": "Concuerdo con el desconocido"
+          "recomendationU": "Concuerdo con el desconocido."
         }
       ]
     }
@@ -143,10 +143,10 @@
   "shoppingcart": [
     {
       "id": 1,
-      "quantity": 2,
+      "quantity": 4,
       "img": "https://napolicartagena.com/wp-content/uploads/2022/01/La-Pizza-Hawaiana-de-Canada.jpg",
       "name": "Pizza Hawaiana",
-      "description": "La pizza hawaiana, originaria de Canadá, es una pizza que tradicionalmente contiene una base de queso fundido y tomate que se aliña con jamón y piña",
+      "description": "La pizza hawaiana, originaria de Canadá, es una pizza que tradicionalmente contiene una base de queso fundido y tomate que se aliña con jamón y piña.",
       "price": "60.000",
       "previews": "545",
       "recomendation": [
@@ -154,45 +154,22 @@
           "id": 1,
           "imgU": "https://i.pinimg.com/originals/39/72/f8/3972f81d4123278662c34eb40a25f0fd.jpg",
           "nameU": "Diego Andres",
-          "recomendationU": "De las mejores pizzas que he probado, recomendada"
+          "recomendationU": "De las mejores pizzas que he probado, recomendada."
         },
         {
           "id": 2,
           "imgU": "https://i.pinimg.com/originals/43/08/25/4308258e169a147bd45f96965cfd277c.jpg",
           "nameU": "Alexis Tamayo",
-          "recomendationU": "Concuerdo con el desconocido"
+          "recomendationU": "Concuerdo con el desconocido."
         }
       ]
     },
     {
       "id": 2,
       "quantity": 2,
-      "img": "https://napolicartagena.com/wp-content/uploads/2022/01/La-Pizza-Hawaiana-de-Canada.jpg",
-      "name": "Pizza Hawaiana",
-      "description": "La pizza hawaiana, originaria de Canadá, es una pizza que tradicionalmente contiene una base de queso fundido y tomate que se aliña con jamón y piña",
-      "price": "60.000",
-      "previews": "545",
-      "recomendation": [
-        {
-          "id": 1,
-          "imgU": "https://i.pinimg.com/originals/39/72/f8/3972f81d4123278662c34eb40a25f0fd.jpg",
-          "nameU": "Diego Andres",
-          "recomendationU": "De las mejores pizzas que he probado, recomendada"
-        },
-        {
-          "id": 2,
-          "imgU": "https://i.pinimg.com/originals/43/08/25/4308258e169a147bd45f96965cfd277c.jpg",
-          "nameU": "Alexis Tamayo",
-          "recomendationU": "Concuerdo con el desconocido"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "quantity": 0,
-      "img": "https://cdn0.recetasgratis.net/es/posts/5/2/6/pizza_napolitana_32625_orig.jpg",
-      "name": "Pizza Napolitana",
-      "description": "La pizza napolitana, de masa tierna y delgada pero bordes altos, es la versión propia de la cocina napolitana de la pizza redonda. El término pizza napoletana, por su importancia histórica o regional, se emplea en algunas zonas como sinónimo de pizza tonda.",
+      "img": "https://recetinas.com/wp-content/uploads/2022/07/pizza-mexicana.jpg",
+      "name": "Pizza Mexicana",
+      "description": "La pizza mexicana es un tipo de pizza elaborada con los ingredientes habituales de la cocina mexicana.",
       "price": "51.000",
       "previews": "445",
       "recomendation": [
@@ -200,21 +177,15 @@
           "id": 1,
           "imgU": "https://i.pinimg.com/originals/41/76/44/417644ace33accc7459475ec8eb7b19d.jpg",
           "nameU": "Andres Parra",
-          "recomendationU": "De las mejores pizzas que he probado, recomendada"
+          "recomendationU": "De las mejores pizzas que he probado, recomendada."
         },
         {
           "id": 2,
           "imgU": "https://i.pinimg.com/originals/39/72/f8/3972f81d4123278662c34eb40a25f0fd.jpg",
           "nameU": "Diego Andres",
-          "recomendationU": "Concuerdo con el desconocido"
+          "recomendationU": "Concuerdo con el desconocido."
         }
       ]
-    },
-    {
-      "id": 5
-    },
-    {
-      "id": 6
     }
   ]
 }
